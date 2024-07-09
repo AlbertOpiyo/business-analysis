@@ -4,7 +4,7 @@ import streamlit as st
 conn = psycopg2.connect(
         dbname="businessanalysis",
         user="postgres",
-        password="@Nairobi2003",
+        password="Nxxxxx",
         host="localhost",
         port=5432
     )
